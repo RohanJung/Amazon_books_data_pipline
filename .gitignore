@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Airflow
+/airflow.db
+/logs/
+/tmp/
+*.pid
+*.swp
+
+# VSCode / editors
+.vscode/
+.idea/
+*.iml
